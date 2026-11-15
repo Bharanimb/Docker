@@ -39,7 +39,7 @@ docker exec -it postgres_db bash
 **2. Connect to the database**
 
 ```bash
-psql -U admin -d employee_db
+psql -U username -d employee_db
 ```
 
 **3. List databases**
